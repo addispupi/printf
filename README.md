@@ -1,5 +1,8 @@
 # printf
-#### Convertion
+This project mimics the printf found in in C.
+
+`_printf FORMAT [ARGUMENT]...`
+## Convertion
 - %c: Prints a single character
 - %s: Prints a string of characters
 - %d: Prints integers
@@ -12,5 +15,5 @@
 - %r: Prints a reversed string
 - %R: Prints the Rot13 interpretation of a string
 
-#### Authors
+## Authors
 Addisu Hailemariam & Thabo Michael Mahlangu
